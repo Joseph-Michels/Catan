@@ -1,6 +1,6 @@
 # CATAN
 Not intended to infringe on Catan copyrights
-# Setup
+# Installs
 LMK if there are confusing install options or for git questions
 #### Git
 - https://git-scm.com/
@@ -12,3 +12,5 @@ LMK if there are confusing install options or for git questions
 - The installer has a lot of options; someone stream it so I can get you the correct options
 #### Optional
 - If you want a text editor with visual git, I like VS Code (https://code.visualstudio.com/)
+# Setup
+- In Unity: I prefer Window > Layouts > Tall
